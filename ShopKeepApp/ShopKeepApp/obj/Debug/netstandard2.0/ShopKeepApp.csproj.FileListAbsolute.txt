@@ -1,0 +1,15 @@
+C:\Users\johan\source\repos\ShopKeepApp\ShopKeepApp\ShopKeepApp\bin\Debug\netstandard2.0\ShopKeepApp.deps.json
+C:\Users\johan\source\repos\ShopKeepApp\ShopKeepApp\ShopKeepApp\bin\Debug\netstandard2.0\ShopKeepApp.dll
+C:\Users\johan\source\repos\ShopKeepApp\ShopKeepApp\ShopKeepApp\bin\Debug\netstandard2.0\ref\ShopKeepApp.dll
+C:\Users\johan\source\repos\ShopKeepApp\ShopKeepApp\ShopKeepApp\bin\Debug\netstandard2.0\ShopKeepApp.pdb
+C:\Users\johan\source\repos\ShopKeepApp\ShopKeepApp\ShopKeepApp\obj\Debug\netstandard2.0\ShopKeepApp.csprojAssemblyReference.cache
+C:\Users\johan\source\repos\ShopKeepApp\ShopKeepApp\ShopKeepApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\johan\source\repos\ShopKeepApp\ShopKeepApp\ShopKeepApp\obj\Debug\netstandard2.0\Views\HistoryPage.xaml.g.cs
+C:\Users\johan\source\repos\ShopKeepApp\ShopKeepApp\ShopKeepApp\obj\Debug\netstandard2.0\Views\ProfilePage.xaml.g.cs
+C:\Users\johan\source\repos\ShopKeepApp\ShopKeepApp\ShopKeepApp\obj\Debug\netstandard2.0\Views\ShoppingListPage.xaml.g.cs
+C:\Users\johan\source\repos\ShopKeepApp\ShopKeepApp\ShopKeepApp\obj\Debug\netstandard2.0\Views\TabMenuPage.xaml.g.cs
+C:\Users\johan\source\repos\ShopKeepApp\ShopKeepApp\ShopKeepApp\obj\Debug\netstandard2.0\ShopKeepApp.AssemblyInfoInputs.cache
+C:\Users\johan\source\repos\ShopKeepApp\ShopKeepApp\ShopKeepApp\obj\Debug\netstandard2.0\ShopKeepApp.AssemblyInfo.cs
+C:\Users\johan\source\repos\ShopKeepApp\ShopKeepApp\ShopKeepApp\obj\Debug\netstandard2.0\ShopKeepApp.dll
+C:\Users\johan\source\repos\ShopKeepApp\ShopKeepApp\ShopKeepApp\obj\Debug\netstandard2.0\ref\ShopKeepApp.dll
+C:\Users\johan\source\repos\ShopKeepApp\ShopKeepApp\ShopKeepApp\obj\Debug\netstandard2.0\ShopKeepApp.pdb
